@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/duffle/duffle"
+	"$bumpmap"	"models/duffle/duffle_nm"
+	"$selfillum" 1
+
+$phong 1
+"$phongwarptexture" "models/duffle/phongwarp"
+$phongtint "[5 5 0.5]"
+$phongfresnelranges "[1 1 2]"
+$phongexponent 70
+$phongboost 2.0
+$rimlight 1
+$rimlightboost 0.7
+$rimlightexponent 20
+
+
+}

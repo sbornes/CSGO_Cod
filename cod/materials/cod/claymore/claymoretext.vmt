@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "cod/claymore/claymore"
+
+	 $color2 "{150.0 150.0 150.0}"
+}
